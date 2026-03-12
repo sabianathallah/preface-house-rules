@@ -3,26 +3,41 @@ export const kesehatanBPJSPolicies = [
     id: 1,
     category: "Kesehatan & BPJS",
     categoryColor: "#10b981",
-    title: "Reimburse BPJS Kesehatan",
+    title: "BPJS Kesehatan",
     lastUpdated: "1 Jan 2025",
     tags: ["BPJS", "Kesehatan", "Reimburse"],
-    summary: "Ketentuan penggantian biaya BPJS Kesehatan bagi karyawan tetap.",
-    content: `**Siapa yang Berhak?**
-Seluruh karyawan tetap yang telah melewati masa probasi (3 bulan).
+    summary: "Fasilitas BPJS kesehatan mandiri karyawan.",
+    content: `
+**Tujuan**
+Memberikan dukungan kepada karyawan dalam memperoleh perlindungan kesehatan melalui program BPJS Kesehatan mandiri.
 
-**Besaran Reimburse**
-- Karyawan: Rp 150.000/bulan
-- Karyawan + 1 tanggungan: Rp 250.000/bulan
-- Karyawan + keluarga (maks. 4 jiwa): Rp 400.000/bulan
+**Ruang Lingkup**
+Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan.
 
-**Cara Klaim**
-1. Simpan bukti pembayaran iuran BPJS (screenshot/struk)
-2. Isi form reimburse di portal HR (hr.company.com)
-3. Upload bukti paling lambat tanggal 25 setiap bulan
-4. Dana cair bersamaan dengan gaji bulan berikutnya
+**Sistem Kepersertaan**
+1. Karyawan wajib mendaftar sebagai peserta mandiri BPJS Kesehatan.
+2. Perusahaan tidak menggunakan sistem badan usaha sebagai peserta, sehingga karyawan harus mendaftar secara individu.
+3. Kepersertaan BPJS Kesehatan terdaftar atas nama pribadi karyawan.
 
-**Catatan**
-Klaim yang masuk setelah tanggal 25 akan diproses pada bulan berikutnya.`,
+**Bantuan Pembayaran dari Perusahaan**
+1. Reimburse iuran BPJS Kesehatan
+2. Perusahaan menetapkan setiap karyawan mendapatkan bantuan pembayaran iuran BPJS Kesehatan pada kelas 2 sebesar Rp 100.000/bulan.
+
+**Prosedur Reimbursement** 
+1. Karyawan membayarkan iuran BPJS Kesehatan secara mandiri sesuai kelas yang dipilih.
+2. Karyawan mengisi formulir reimbursement pada (https://forms.gle/kKWNdvzLsEsPWdVdA).
+3. Penggantian maksimal 14 hari kerja setelah pengajuan lengkap.
+4. Penggantian dilakukan melalui transfer bank ke rekening karyawan.
+
+**Tanggung Jawab Karyawan** 
+1. Pastikan BPJS aktif dan terdaftar.
+2. Bayar iuran tepat waktu untuk menghindari penangguhan layanan.
+3. Ajukan reimbursement sesuai prosedur dengan bukti pembayaran yang valid.
+
+**Ketentuan Tambahan** 
+1. BPJS tidak aktif menjadi tanggung jawab karyawan.
+2. Perusahaan dapat evaluasi kebijakan.
+`,
   },
   {
     id: 2,
@@ -32,16 +47,6 @@ Klaim yang masuk setelah tanggal 25 akan diproses pada bulan berikutnya.`,
     lastUpdated: "1 Jan 2025",
     tags: ["BPJS", "Ketenagakerjaan", "JHT"],
     summary: "Informasi iuran dan manfaat BPJS Ketenagakerjaan.",
-    content: `**Program yang Diikuti**
-- Jaminan Hari Tua (JHT): 5.7% (2% karyawan, 3.7% perusahaan)
-- Jaminan Kecelakaan Kerja (JKK): 0.24% (perusahaan)
-- Jaminan Kematian (JKM): 0.3% (perusahaan)
-- Jaminan Pensiun (JP): 3% (1% karyawan, 2% perusahaan)
-
-**Pendaftaran**
-Dilakukan oleh tim HR pada hari pertama bergabung. Kartu fisik akan diberikan dalam 30 hari kerja.
-
-**Klaim JHT**
-Bisa diklaim saat resign/pensiun langsung ke kantor BPJS terdekat dengan membawa KTP, kartu BPJS, dan surat keterangan berhenti bekerja.`,
+    content: ``,
   },
 ];

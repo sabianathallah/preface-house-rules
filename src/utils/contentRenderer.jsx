@@ -1,6 +1,35 @@
 import { COLORS } from "./constants";
 
 /**
+ * Parse inline bold text (**text**) in a string and convert to React elements
+ * @param {string} text - Text with possible **bold** markers
+ * @returns {Array} Array of text and <strong> elements
+ */
+function parseInlineBold(text) {
+  const parts = [];
+  let currentIndex = 0;
+  const boldRegex = /\*\*(.+?)\*\*/g;
+  let match;
+
+  while ((match = boldRegex.exec(text)) !== null) {
+    // Add text before the match
+    if (match.index > currentIndex) {
+      parts.push(text.substring(currentIndex, match.index));
+    }
+    // Add bold text
+    parts.push(<strong key={match.index} style={{ fontWeight: 600 }}>{match[1]}</strong>);
+    currentIndex = match.index + match[0].length;
+  }
+
+  // Add remaining text
+  if (currentIndex < text.length) {
+    parts.push(text.substring(currentIndex));
+  }
+
+  return parts.length > 0 ? parts : [text];
+}
+
+/**
  * Render markdown-style content to React elements with proper spacing
  * @param {string} text - Markdown-formatted text
  * @returns {Array} Array of React elements
@@ -33,8 +62,8 @@ export function renderContent(text) {
   };
 
   lines.forEach((line, i) => {
-    // Bold headers (e.g., **Header**)
-    if (line.startsWith("**") && line.endsWith("**")) {
+    // Bold headers (e.g., **Header** atau **Header** dengan spasi)
+    if (line.trim().startsWith("**") && line.trim().endsWith("**")) {
       flushList();
       elements.push(
         <p
@@ -49,7 +78,7 @@ export function renderContent(text) {
             letterSpacing: "0.05em",
           }}
         >
-          {line.replace(/\*\*/g, "")}
+          {line.trim().replace(/\*\*/g, "")}
         </p>
       );
       return;
@@ -61,6 +90,7 @@ export function renderContent(text) {
         flushList();
         listType = 'bullet';
       }
+      const content = line.slice(2);
       listItems.push(
         <li
           key={`bullet-${i}`}
@@ -72,7 +102,7 @@ export function renderContent(text) {
             paddingLeft: "4px",
           }}
         >
-          {line.slice(2)}
+          {parseInlineBold(content)}
         </li>
       );
       return;
@@ -84,6 +114,7 @@ export function renderContent(text) {
         flushList();
         listType = 'numbered';
       }
+      const content = line.replace(/^\d+\.\s/, "");
       listItems.push(
         <li
           key={`numbered-${i}`}
@@ -95,7 +126,7 @@ export function renderContent(text) {
             paddingLeft: "4px",
           }}
         >
-          {line.replace(/^\d+\.\s/, "")}
+          {parseInlineBold(content)}
         </li>
       );
       return;
@@ -140,7 +171,7 @@ export function renderContent(text) {
           marginBottom: "8px",
         }}
       >
-        {line}
+        {parseInlineBold(line)}
       </p>
     );
   });
