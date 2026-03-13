@@ -81,6 +81,10 @@ ul, ol {
   padding-left: 20px;
 }
 
+table {
+  border-collapse: collapse;
+}
+
 /* ==================== HEADER ==================== */
 .header {
   background: var(--color-bg-primary);

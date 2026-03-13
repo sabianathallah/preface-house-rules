@@ -39,6 +39,8 @@ export function renderContent(text) {
   const elements = [];
   let listItems = [];
   let listType = null; // 'bullet' or 'numbered'
+  let tableRows = [];
+  let isInTable = false;
 
   const flushList = () => {
     if (listItems.length > 0) {
@@ -61,7 +63,97 @@ export function renderContent(text) {
     }
   };
 
+  const flushTable = () => {
+    if (tableRows.length > 0) {
+      const headers = tableRows[0];
+      const rows = tableRows.slice(2); // Skip header and separator line
+
+      elements.push(
+        <table 
+          key={`table-${elements.length}`}
+          style={{
+            width: "100%",
+            borderCollapse: "collapse",
+            marginTop: "16px",
+            marginBottom: "16px",
+            border: `1px solid ${COLORS.border}`,
+            borderRadius: "8px",
+            overflow: "hidden",
+          }}
+        >
+          <thead>
+            <tr style={{ background: COLORS.primaryLight }}>
+              {headers.split('|').filter(h => h.trim()).map((header, idx) => (
+                <th 
+                  key={idx}
+                  style={{
+                    padding: "12px 16px",
+                    textAlign: "left",
+                    fontSize: "12px",
+                    fontWeight: 700,
+                    color: COLORS.primary,
+                    textTransform: "uppercase",
+                    letterSpacing: "0.05em",
+                    borderBottom: `2px solid ${COLORS.primary}`,
+                  }}
+                >
+                  {parseInlineBold(header.trim())}
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((row, rowIdx) => (
+              <tr 
+                key={rowIdx}
+                style={{
+                  borderBottom: `1px solid ${COLORS.borderLight}`,
+                  background: rowIdx % 2 === 0 ? COLORS.bgPrimary : COLORS.bgSecondary,
+                }}
+              >
+                {row.split('|').filter(c => c.trim()).map((cell, cellIdx) => (
+                  <td 
+                    key={cellIdx}
+                    style={{
+                      padding: "12px 16px",
+                      fontSize: "13px",
+                      color: COLORS.textSecondary,
+                      lineHeight: 1.6,
+                    }}
+                  >
+                    {parseInlineBold(cell.trim())}
+                  </td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      );
+      tableRows = [];
+      isInTable = false;
+    }
+  };
+
   lines.forEach((line, i) => {
+    // Detect table start (line with |)
+    if (line.includes('|') && !isInTable) {
+      flushList();
+      isInTable = true;
+      tableRows.push(line);
+      return;
+    }
+
+    // Continue collecting table rows
+    if (isInTable && line.includes('|')) {
+      tableRows.push(line);
+      return;
+    }
+
+    // End of table
+    if (isInTable && !line.includes('|')) {
+      flushTable();
+    }
+
     // Bold headers (e.g., **Header** atau **Header** dengan spasi)
     if (line.trim().startsWith("**") && line.trim().endsWith("**")) {
       flushList();
@@ -176,8 +268,9 @@ export function renderContent(text) {
     );
   });
 
-  // Flush any remaining list items
+  // Flush any remaining list items or table
   flushList();
+  flushTable();
 
   return elements;
 }
