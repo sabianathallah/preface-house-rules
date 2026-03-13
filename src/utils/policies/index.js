@@ -1,20 +1,20 @@
 import { kesehatanBPJSPolicies } from "./kesehatanBPJS";
 import { lemburKompensasiPolicies } from "./lemburKompensasi";
 import { cutiAbsensiPolicies } from "./cutiAbsensi";
-import { pengembanganDiriPolicies } from "./pengembanganDiri";
 import { kodeEtikPolicies } from "./kodeEtik";
 import { formulirLinkPolicies } from "./formulirLink";
 import { informasiPengumumanPolicies } from "./informasiPengumuman";
+import { aturanDisiplinPolicies } from "./aturanDisiplin";
 
 // Gabungkan semua policies
 export const allPolicies = [
   ...kesehatanBPJSPolicies,
   ...lemburKompensasiPolicies,
   ...cutiAbsensiPolicies,
-  ...pengembanganDiriPolicies,
   ...kodeEtikPolicies,
   ...formulirLinkPolicies,
   ...informasiPengumumanPolicies,
+  ...aturanDisiplinPolicies,
 ];
 
 // Export individual categories
@@ -22,10 +22,10 @@ export {
   kesehatanBPJSPolicies,
   lemburKompensasiPolicies,
   cutiAbsensiPolicies,
-  pengembanganDiriPolicies,
   kodeEtikPolicies,
   formulirLinkPolicies,
   informasiPengumumanPolicies,
+  aturanDisiplinPolicies,
 };
 
 // Helper: Get policies by category

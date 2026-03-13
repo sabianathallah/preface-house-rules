@@ -1,6 +1,6 @@
 export const informasiPengumumanPolicies = [
   {
-    id: 10,
+    id: 11,
     category: "Informasi & Pengumuman",
     categoryColor: "#0ea5e9",
     title: "Jadwal Cuti Bersama & Libur Nasional 2026",
