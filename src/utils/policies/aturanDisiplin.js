@@ -8,6 +8,14 @@ export const aturanDisiplinPolicies = [
     tags: ["Disiplin", "Sanksi", "SP", "Pelanggaran"],
     summary: "Aturan disiplin kerja, jenis pelanggaran, dan tahapan sanksi.",
     content: `
+**Tujuan**
+Menetapkan sistem disiplin yang adil dan transparan sebagai alat pengembangan karyawan, bukan hukuman, dengan fokus pada pertumbuhan dan perbaikan berkelanjutan dalam budaya kerja keluarga Preface.
+
+**Ruang Lingkup**
+Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan.
+
+---
+
 **Filosofi Disiplin di Preface**
 
 Di Preface, kami percaya bahwa disiplin bukan tentang hukuman, melainkan tentang pertumbuhan. Kami adalah keluarga yang saling mengingatkan dan membantu berkembang. Sistem disiplin kami dirancang untuk:

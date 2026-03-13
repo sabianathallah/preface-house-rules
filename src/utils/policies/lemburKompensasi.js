@@ -8,6 +8,12 @@ export const lemburKompensasiPolicies = [
     tags: ["Lembur", "Overtime", "Kompensasi"],
     summary: "Prosedur pengajuan dan perhitungan kompensasi kerja lembur.",
     content: `
+**Tujuan**
+Mengatur kebijakan kompensasi untuk pekerjaan lembur karyawan secara adil dan jelas, serta memberikan apresiasi atas dedikasi waktu tambahan mereka.
+
+**Ruang Lingkup**
+Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan.
+
 `,
   },
   {
@@ -18,7 +24,14 @@ export const lemburKompensasiPolicies = [
     lastUpdated: "13 Mar 2026",
     tags: ["Reimburse", "Operasional", "Klaim Biaya"],
     summary: "Prosedur penggantian biaya operasional perusahaan.",
-    content: `**Reimburse Biaya Operasional**
+    content: `
+**Tujuan**
+Memastikan semua biaya operasional yang dikeluarkan karyawan untuk keperluan perusahaan dapat diganti secara tepat dan efisien.
+
+**Ruang Lingkup**
+Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan.
+
+**Reimburse Biaya Operasional**
 Segala biaya operasional yang berhubungan dengan kegiatan perusahaan akan diganti oleh perusahaan dengan sistem reimburse.
 
 **Jenis Biaya yang Dapat Direimburse**

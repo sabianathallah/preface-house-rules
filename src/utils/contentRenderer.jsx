@@ -197,6 +197,39 @@ export function renderContent(text) {
   };
 
   lines.forEach((line, i) => {
+    // Detect image syntax ![alt](src)
+    if (line.trim().startsWith("![") && line.includes("](")) {
+      flushList();
+      const imageRegex = /!\[([^\]]*)\]\(([^)]+)\)/;
+      const match = line.match(imageRegex);
+      
+      if (match) {
+        const [, altText, imageSrc] = match;
+        elements.push(
+          <div
+            key={`image-${i}`}
+            style={{
+              marginTop: "16px",
+              marginBottom: "16px",
+              textAlign: "center",
+            }}
+          >
+            <img
+              src={imageSrc}
+              alt={altText}
+              style={{
+                maxWidth: "100%",
+                height: "auto",
+                borderRadius: "8px",
+                boxShadow: "0 4px 12px rgba(0, 0, 0, 0.1)",
+              }}
+            />
+          </div>
+        );
+      }
+      return;
+    }
+
     // Detect table start (line with |)
     if (line.includes('|') && !isInTable) {
       flushList();

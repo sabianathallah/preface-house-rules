@@ -5,6 +5,7 @@ import { kodeEtikPolicies } from "./kodeEtik";
 import { formulirLinkPolicies } from "./formulirLink";
 import { informasiPengumumanPolicies } from "./informasiPengumuman";
 import { aturanDisiplinPolicies } from "./aturanDisiplin";
+import { profilPerusahaanPolicies } from "./profilPerusahaan";
 
 // Gabungkan semua policies
 export const allPolicies = [
@@ -15,6 +16,7 @@ export const allPolicies = [
   ...formulirLinkPolicies,
   ...informasiPengumumanPolicies,
   ...aturanDisiplinPolicies,
+  ...profilPerusahaanPolicies,
 ];
 
 // Export individual categories
@@ -26,6 +28,7 @@ export {
   formulirLinkPolicies,
   informasiPengumumanPolicies,
   aturanDisiplinPolicies,
+  profilPerusahaanPolicies,
 };
 
 // Helper: Get policies by category
@@ -38,8 +41,18 @@ export const getPoliciesByCategory = (categoryName) => {
 
 // Helper: Get unique categories
 export const getCategories = () => {
-  const uniqueCategories = [...new Set(allPolicies.map((p) => p.category))];
-  return ["Semua", ...uniqueCategories];
+  const categoryOrder = [
+    "Semua",
+    "Profil Perusahaan",
+    "Informasi & Pengumuman",
+    "Aturan Disiplin",
+    "Kode Etik",
+    "Cuti & Absensi",
+    "Lembur & Kompensasi",
+    "Kesehatan & BPJS",
+    "Formulir & Link",
+  ];
+  return categoryOrder;
 };
 
 // Helper: Get policy by ID

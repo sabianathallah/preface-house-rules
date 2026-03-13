@@ -8,6 +8,14 @@ export const kodeEtikPolicies = [
     tags: ["Etika", "Conduct", "Disiplin"],
     summary: "Standar perilaku dan etika profesional yang wajib dipatuhi.",
     content: `
+**Tujuan**
+Menetapkan standar perilaku dan etika profesional yang menjadi fondasi budaya kerja yang sehat, integritas tinggi, dan kepercayaan mutual di lingkungan Preface.
+
+**Ruang Lingkup**
+Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan.
+
+---
+
 **Prinsip Dasar**
 Di Preface, kami adalah keluarga besar yang bekerja bersama. Meskipun suasana kerja santai dan akrab, kami tetap menjunjung tinggi nilai-nilai:
 - **Integritas**: Jujur dan terbuka dalam setiap tindakan karena kepercayaan adalah fondasi keluarga
