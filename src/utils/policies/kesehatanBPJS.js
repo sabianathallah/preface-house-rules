@@ -4,7 +4,7 @@ export const kesehatanBPJSPolicies = [
     category: "Kesehatan & BPJS",
     categoryColor: "#10b981",
     title: "BPJS Kesehatan",
-    lastUpdated: "1 Jan 2025",
+    lastUpdated: "13 Mar 2026",
     tags: ["BPJS", "Kesehatan", "Reimburse"],
     summary: "Fasilitas BPJS kesehatan mandiri karyawan.",
     content: `
@@ -44,7 +44,7 @@ Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan.
     category: "Kesehatan & BPJS",
     categoryColor: "#10b981",
     title: "BPJS Ketenagakerjaan",
-    lastUpdated: "1 Jan 2025",
+    lastUpdated: "13 Mar 2026",
     tags: ["BPJS", "Ketenagakerjaan", "JHT"],
     summary: "Informasi iuran dan manfaat BPJS Ketenagakerjaan.",
     content: ``,

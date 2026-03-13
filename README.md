@@ -57,10 +57,13 @@ preface-house-rules/
 
 ## 🎯 Features
 
-- ✅ **8 Company Policies** organized in 5 categories
+- ✅ **10 Company Policies** organized in 7 categories
 - 🔍 **Real-time Search** - Search by title, content, tags
 - 🏷️ **Category Filter** - Sidebar with category counts
 - 📄 **Expandable Cards** - Click to see full policy details
+- 🔗 **Hyperlinks** - Clickable links to Google Forms
+- 📊 **Markdown Tables** - Professional table formatting
+- 📅 **Calendar Info** - Complete 2026 holiday schedule
 - 📬 **Footer Contact** - Email, phone, address info
 - 🎨 **Clean UI** - No clutter, focused on content
 
@@ -83,10 +86,13 @@ See [DEPLOY.md](docs/DEPLOY.md) for detailed instructions.
 
 ## 📊 Stats
 
-- **Bundle Size**: 159.80 KB → 52.15 KB gzipped
-- **Build Time**: ~400ms
+- **Bundle Size**: 180.11 KB → 57.54 KB gzipped
+- **Build Time**: ~1.0s
 - **Components**: 6 files
-- **Utilities**: 7 files + 5 policy files
+- **Utilities**: 7 files + 7 policy files
+- **Policies**: 10 policies in 7 categories
+- **Google Forms**: 3 forms with clickable links
+- **Holiday Calendar**: 25 days (17 national + 8 collective leave)
 - **Dependencies**: 327 packages
 - **No Unused Code**: ✅ Clean codebase
 

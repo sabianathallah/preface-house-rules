@@ -30,6 +30,68 @@ function parseInlineBold(text) {
 }
 
 /**
+ * Parse hyperlinks in text and convert to <a> tags
+ * Supports: https://example.com or (https://example.com)
+ * @param {string|Array} content - Text or array with possible URLs
+ * @returns {Array} Array of text and <a> elements
+ */
+function parseHyperlinks(content) {
+  // If content is already an array (from parseInlineBold), process each part
+  const textContent = Array.isArray(content) 
+    ? content.map(part => typeof part === 'string' ? part : part.props.children).join('**BOLD**')
+    : content;
+  
+  const parts = [];
+  let currentIndex = 0;
+  
+  // Regex for URLs: (https://...) or https://...
+  const urlRegex = /(\()?https?:\/\/[^\s)]+(\))?/g;
+  let match;
+
+  while ((match = urlRegex.exec(textContent)) !== null) {
+    const url = match[0].replace(/[()]/g, ''); // Remove parentheses
+    const displayText = url.length > 50 ? url.substring(0, 47) + '...' : url;
+    
+    // Add text before the match
+    if (match.index > currentIndex) {
+      const beforeText = textContent.substring(currentIndex, match.index);
+      parts.push(...parseInlineBold(beforeText));
+    }
+    
+    // Add hyperlink
+    parts.push(
+      <a 
+        key={match.index}
+        href={url}
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{
+          color: COLORS.primary,
+          fontWeight: 500,
+          textDecoration: "none",
+          borderBottom: `1px solid ${COLORS.primary}`,
+          transition: "opacity 0.2s",
+        }}
+        onMouseEnter={(e) => e.target.style.opacity = "0.7"}
+        onMouseLeave={(e) => e.target.style.opacity = "1"}
+      >
+        {displayText}
+      </a>
+    );
+    
+    currentIndex = match.index + match[0].length;
+  }
+
+  // Add remaining text
+  if (currentIndex < textContent.length) {
+    const remainingText = textContent.substring(currentIndex);
+    parts.push(...parseInlineBold(remainingText));
+  }
+
+  return parts.length > 0 ? parts : parseInlineBold(textContent);
+}
+
+/**
  * Render markdown-style content to React elements with proper spacing
  * @param {string} text - Markdown-formatted text
  * @returns {Array} Array of React elements
@@ -194,7 +256,7 @@ export function renderContent(text) {
             paddingLeft: "4px",
           }}
         >
-          {parseInlineBold(content)}
+          {parseHyperlinks(content)}
         </li>
       );
       return;
@@ -218,7 +280,7 @@ export function renderContent(text) {
             paddingLeft: "4px",
           }}
         >
-          {parseInlineBold(content)}
+          {parseHyperlinks(content)}
         </li>
       );
       return;
@@ -263,7 +325,7 @@ export function renderContent(text) {
           marginBottom: "8px",
         }}
       >
-        {parseInlineBold(line)}
+        {parseHyperlinks(line)}
       </p>
     );
   });

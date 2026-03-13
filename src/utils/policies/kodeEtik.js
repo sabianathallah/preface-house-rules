@@ -4,7 +4,7 @@ export const kodeEtikPolicies = [
     category: "Kode Etik",
     categoryColor: "#ef4444",
     title: "Kode Etik & Perilaku Karyawan",
-    lastUpdated: "1 Jan 2025",
+    lastUpdated: "13 Mar 2026",
     tags: ["Etika", "Conduct", "Disiplin"],
     summary: "Standar perilaku dan etika profesional yang wajib dipatuhi.",
     content: `**Prinsip Dasar**

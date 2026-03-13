@@ -4,50 +4,46 @@ export const lemburKompensasiPolicies = [
     category: "Lembur & Kompensasi",
     categoryColor: "#f59e0b",
     title: "Klaim Overtime (Lembur)",
-    lastUpdated: "15 Mar 2025",
+    lastUpdated: "13 Mar 2026",
     tags: ["Lembur", "Overtime", "Kompensasi"],
     summary: "Prosedur pengajuan dan perhitungan kompensasi kerja lembur.",
-    content: `**Definisi Lembur**
-Kerja melebihi 8 jam/hari atau 40 jam/minggu, atau kerja di hari libur/weekend.
-
-**Syarat Lembur**
-1. Ada persetujuan tertulis dari manager langsung (minimal 1 hari sebelumnya)
-2. Dikerjakan untuk kebutuhan project/deadline yang mendesak
-3. Maksimal 4 jam/hari dan 18 jam/minggu (sesuai UU Ketenagakerjaan)
-
-**Perhitungan Kompensasi**
-- Lembur hari kerja (jam ke-1): 1.5x upah per jam
-- Lembur hari kerja (jam ke-2 dst): 2x upah per jam
-- Lembur hari libur nasional: 2x (7 jam pertama), 3x (jam ke-8), 4x (jam ke-9+)
-
-*Upah per jam = Gaji bulanan / 173*
-
-**Cara Klaim**
-1. Minta approval lembur via Slack ke manager (#overtime-request)
-2. Catat jam mulai & selesai di sistem absensi
-3. Submit klaim di portal HR sebelum tanggal 20
-4. Dibayarkan bersamaan gaji bulan berjalan`,
+    content: `
+`,
   },
   {
     id: 4,
     category: "Lembur & Kompensasi",
     categoryColor: "#f59e0b",
-    title: "Tunjangan Transportasi & Makan",
-    lastUpdated: "1 Jan 2025",
-    tags: ["Tunjangan", "Transport", "Makan"],
-    summary: "Ketentuan tunjangan harian untuk karyawan.",
-    content: `**Tunjangan Makan**
-Rp 30.000/hari kerja (masuk kantor). Tidak berlaku untuk WFH.
+    title: "Reimburse Biaya Operasional",
+    lastUpdated: "13 Mar 2026",
+    tags: ["Reimburse", "Operasional", "Klaim Biaya"],
+    summary: "Prosedur penggantian biaya operasional perusahaan.",
+    content: `**Reimburse Biaya Operasional**
+Segala biaya operasional yang berhubungan dengan kegiatan perusahaan akan diganti oleh perusahaan dengan sistem reimburse.
 
-**Tunjangan Transportasi**
-Rp 20.000/hari kerja (masuk kantor). Tidak berlaku untuk WFH.
+**Jenis Biaya yang Dapat Direimburse**
+- Transport untuk meeting client/vendor/partner
+- Makan saat meeting bisnis
+- Parkir dan tol untuk keperluan dinas
+- Akomodasi perjalanan dinas (hotel, tiket transportasi)
+- Pembelian kebutuhan operasional kantor
+- Biaya lain yang diperlukan untuk menjalankan tugas pekerjaan
 
-**Tunjangan WFH**
-Rp 15.000/hari saat WFH (untuk internet/listrik).
+**Prosedur Reimburse**
+1. Untuk pengeluaran dengan **nominal besar**, karyawan wajib mendapatkan **approval atasan** terlebih dahulu sebelum melakukan pembayaran.
+2. Karyawan melakukan pembayaran dan menyimpan semua bukti pembayaran (struk/invoice/nota) dengan jelas dan lengkap.
+3. Submit pengajuan reimburse melalui formulir per transaksi: https://forms.gle/ZxX2YddZnubkjbun7
+4. Batas waktu pengajuan maksimal **7 hari kerja** setelah tanggal transaksi.
+5. HR akan melakukan review dan verifikasi terhadap pengajuan.
+6. Setelah disetujui, proses pengiriman dana dilakukan maksimal 7-14 hari kerja.
+7. Dana direimburse melalui transfer bank ke rekening karyawan.
 
-**Catatan Penting**
-- Dihitung berdasarkan kehadiran aktual per bulan
-- Tidak ada penggantian jika tidak masuk tanpa keterangan
-- Cuti tahunan tetap dihitung sebagai hari kerja untuk tunjangan`,
+**Ketentuan Reimburse**
+1. Tidak ada batasan nominal, disesuaikan dengan kebutuhan operasional yang valid.
+2. Semua pengajuan harus disertai bukti pembayaran yang jelas (foto struk, invoice, atau nota asli).
+3. HR berhak meminta klarifikasi atau dokumen pendukung tambahan jika diperlukan.
+4. Pengajuan yang tidak sesuai prosedur atau tidak memiliki bukti valid akan ditolak.
+5. Reimburse hanya untuk keperluan yang benar-benar berhubungan dengan pekerjaan dan operasional perusahaan.
+`,
   },
 ];

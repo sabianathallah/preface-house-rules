@@ -3,6 +3,8 @@ import { lemburKompensasiPolicies } from "./lemburKompensasi";
 import { cutiAbsensiPolicies } from "./cutiAbsensi";
 import { pengembanganDiriPolicies } from "./pengembanganDiri";
 import { kodeEtikPolicies } from "./kodeEtik";
+import { formulirLinkPolicies } from "./formulirLink";
+import { informasiPengumumanPolicies } from "./informasiPengumuman";
 
 // Gabungkan semua policies
 export const allPolicies = [
@@ -11,6 +13,8 @@ export const allPolicies = [
   ...cutiAbsensiPolicies,
   ...pengembanganDiriPolicies,
   ...kodeEtikPolicies,
+  ...formulirLinkPolicies,
+  ...informasiPengumumanPolicies,
 ];
 
 // Export individual categories
@@ -20,6 +24,8 @@ export {
   cutiAbsensiPolicies,
   pengembanganDiriPolicies,
   kodeEtikPolicies,
+  formulirLinkPolicies,
+  informasiPengumumanPolicies,
 };
 
 // Helper: Get policies by category

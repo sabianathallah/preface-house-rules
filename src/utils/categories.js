@@ -4,7 +4,9 @@ import {
   Clock, 
   Calendar, 
   BookOpen, 
-  Shield 
+  Shield,
+  Link,
+  Info
 } from "lucide-react";
 
 // Category icons using Lucide (premium icons)
@@ -15,6 +17,8 @@ export const categoryIcons = {
   "Cuti & Absensi": Calendar,
   "Pengembangan Diri": BookOpen,
   "Kode Etik": Shield,
+  "Formulir & Link": Link,
+  "Informasi & Pengumuman": Info,
 };
 
 // Category colors (PREFACE Red theme)
@@ -24,6 +28,8 @@ export const categoryColors = {
   "Cuti & Absensi": "#E31E24",      // PREFACE Red
   "Pengembangan Diri": "#E31E24",   // PREFACE Red
   "Kode Etik": "#E31E24",           // PREFACE Red
+  "Formulir & Link": "#E31E24",     // PREFACE Red
+  "Informasi & Pengumuman": "#E31E24", // PREFACE Red
 };
 
 export const getCategoryIcon = (categoryName) => {

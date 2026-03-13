@@ -4,7 +4,7 @@ export const pengembanganDiriPolicies = [
     category: "Pengembangan Diri",
     categoryColor: "#ec4899",
     title: "Budget Belajar & Training",
-    lastUpdated: "1 Jan 2025",
+    lastUpdated: "13 Mar 2026",
     tags: ["Training", "Sertifikasi", "Learning"],
     summary: "Fasilitas pengembangan kompetensi dan budget pendidikan.",
     content: `**Budget Tahunan**
