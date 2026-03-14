@@ -13,6 +13,7 @@ export default function CompanyRules() {
   const [activeCategory, setActiveCategory] = useState("Semua");
   const [searchQuery, setSearchQuery] = useState("");
   const [expandedId, setExpandedId] = useState(null);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   // Get all categories
   const categories = useMemo(() => getCategories(), []);
@@ -29,6 +30,15 @@ export default function CompanyRules() {
     return counts;
   }, []);
 
+  // Handle category change and close sidebar on mobile
+  const handleCategoryChange = (category) => {
+    setActiveCategory(category);
+  };
+
+  const handleCloseSidebar = () => {
+    setSidebarOpen(false);
+  };
+
   // If user hasn't entered yet, show welcome page
   if (!hasEntered) {
     return <WelcomePage onEnter={() => setHasEntered(true)} />;
@@ -38,15 +48,19 @@ export default function CompanyRules() {
     <div className="app-root">
       <Header 
         searchQuery={searchQuery} 
-        onSearchChange={setSearchQuery} 
+        onSearchChange={setSearchQuery}
+        onToggleSidebar={() => setSidebarOpen(!sidebarOpen)}
+        isSidebarOpen={sidebarOpen}
       />
 
-      <div className="app-body">
+      <div className={`app-body ${sidebarOpen ? 'sidebar-open' : ''}`}>
         <CategorySidebar
           categories={categories}
           activeCategory={activeCategory}
-          onCategoryChange={setActiveCategory}
+          onCategoryChange={handleCategoryChange}
           categoryCounts={categoryCounts}
+          isOpen={sidebarOpen}
+          onClose={handleCloseSidebar}
         />
 
         <main className="app-main">
