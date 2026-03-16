@@ -4,7 +4,8 @@ import { cutiAbsensiPolicies } from "./cutiAbsensi";
 import { kodeEtikPolicies } from "./kodeEtik";
 import { formulirLinkPolicies } from "./formulirLink";
 import { informasiPengumumanPolicies } from "./informasiPengumuman";
-import { aturanDisiplinPolicies } from "./aturanDisiplin";
+import { jenisPerlangaranPolicies } from "./jenisPerlanggaran";
+import { sistemSanksiPolicies } from "./sistemSanksi";
 import { profilPerusahaanPolicies } from "./profilPerusahaan";
 
 // Gabungkan semua policies
@@ -15,7 +16,8 @@ export const allPolicies = [
   ...kodeEtikPolicies,
   ...formulirLinkPolicies,
   ...informasiPengumumanPolicies,
-  ...aturanDisiplinPolicies,
+  ...jenisPerlangaranPolicies,
+  ...sistemSanksiPolicies,
   ...profilPerusahaanPolicies,
 ];
 
@@ -27,7 +29,8 @@ export {
   kodeEtikPolicies,
   formulirLinkPolicies,
   informasiPengumumanPolicies,
-  aturanDisiplinPolicies,
+  jenisPerlangaranPolicies,
+  sistemSanksiPolicies,
   profilPerusahaanPolicies,
 };
 
