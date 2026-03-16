@@ -18,12 +18,12 @@ Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan.
 
 **Filosofi Disiplin di Preface**
 
-Di Preface, kami percaya bahwa disiplin bukan tentang hukuman, melainkan tentang pertumbuhan. Kami adalah keluarga yang saling mengingatkan dan membantu berkembang. Sistem disiplin kami dirancang untuk:
+Di Preface, kami percaya bahwa disiplin bukan tentang hukuman, melainkan tentang pertumbuhan dan pengembangan profesional. Kami adalah organisasi yang saling mengingatkan dan membantu berkembang. Sistem disiplin kami dirancang untuk:
 - **Edukasi**, bukan intimidasi
 - **Perbaikan**, bukan penghukuman
 - **Dialog**, bukan pendiktean
 
-Meskipun demikian, tetap ada batasan yang harus dijaga untuk kebaikan bersama. Mari sama-sama menjaga kultur kerja yang sehat dan produktif.
+Meskipun demikian, tetap ada batasan yang harus dijaga untuk kebaikan bersama. Kami berkomitmen untuk menjaga kultur kerja yang sehat, produktif, dan profesional.
 
 ---
 

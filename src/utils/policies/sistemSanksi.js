@@ -18,7 +18,7 @@ Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan.
 
 **Pendekatan Progressive Discipline**
 
-Kami pakai pendekatan **progressive discipline** - dari yang paling ringan sampai berat. Setiap orang punya kesempatan untuk improve! 💪
+Perusahaan menerapkan pendekatan **progressive discipline** yang berjenjang - dari yang paling ringan hingga paling berat. Setiap karyawan diberikan kesempatan untuk memperbaiki diri dan menunjukkan perubahan positif.
 
 ---
 
@@ -26,14 +26,14 @@ Kami pakai pendekatan **progressive discipline** - dari yang paling ringan sampa
 
 - **Untuk:** Pelanggaran ringan pertama kali
 - **Proses:**
-  - Ngobrol santai dengan atasan - "Hey, noticed something nih..."
-  - Cari tau kenapa hal ini terjadi - ada masalah apa?
-  - Diskusi solusi bersama
-- **Dokumentasi:** Dicatat atasan, ga masuk file resmi
-- **Masa Berlaku:** 3 bulan (kalau ga ada masalah lagi, clear!)
-- **Dampak:** Zero impact ke KPI, gaji, atau benefit
+  - Percakapan informal dengan atasan untuk mengidentifikasi masalah
+  - Pemahaman terhadap alasan terjadinya pelanggaran
+  - Diskusi mengenai solusi dan langkah perbaikan
+- **Dokumentasi:** Dicatat oleh atasan, tidak masuk dalam file resmi
+- **Masa Berlaku:** 3 bulan (jika tidak ada pelanggaran berulang, akan dihapus dari catatan)
+- **Dampak:** Tidak ada dampak terhadap KPI, gaji, atau benefit
 
-Tone: Friendly reminder, bukan marah-marah 😊
+Pendekatan: Percakapan yang bersifat pembinaan, bukan hukuman
 
 ---
 
@@ -41,37 +41,37 @@ Tone: Friendly reminder, bukan marah-marah 😊
 
 - **Untuk:** Pelanggaran ringan berulang atau pelanggaran sedang pertama
 - **Proses:**
-  - Meeting sedikit lebih formal dengan atasan
-  - Email atau memo tertulis sebagai dokumentasi
-  - Diskusi action plan untuk improvement
-- **Dokumentasi:** Masuk record selama masa berlaku
+  - Pertemuan formal dengan atasan
+  - Surat peringatan atau memo tertulis sebagai dokumentasi
+  - Diskusi mengenai action plan untuk perbaikan
+- **Dokumentasi:** Dicatat dalam personnel file selama masa berlaku
 - **Masa Berlaku:** 6 bulan
 - **Dampak:**
-  - Bisa pengaruh performance review sedikit
-  - Monitoring lebih ketat dari atasan
-  - Bonus bisa terpengaruh jika ga ada perbaikan
+  - Dapat mempengaruhi hasil performance review
+  - Monitoring yang lebih ketat dari atasan
+  - Bonus dapat berkurang jika tidak menunjukkan perbaikan
 
-Tone: Serius namun tetap suportif dengan fokus pada kesuksesan karyawan
+Pendekatan: Serius namun tetap suportif dengan fokus pada kesuksesan karyawan
 
 ---
 
 **Level 3: Surat Peringatan 1 (SP1)**
 
-- **Untuk:** Pelanggaran sedang berulang atau pelanggaran berat (tergantung tingkat keseriusan)
+- **Untuk:** Pelanggaran sedang berulang atau pelanggaran berat tergantung tingkat keseriusan
 - **Proses:**
-  - Meeting formal dengan HR dan Atasan
+  - Pertemuan formal dengan HR dan atasan
   - Penandatanganan surat peringatan resmi
-  - Penyusunan Performance Improvement Plan bersama
-  - Penetapan target yang jelas untuk 30-60 hari ke depan
-- **Dokumentasi:** Masuk ke file kepegawaian permanent
+  - Penyusunan Performance Improvement Plan secara bersama
+  - Penetapan target yang jelas untuk periode 30-60 hari ke depan
+- **Dokumentasi:** Masuk ke dalam file kepegawaian secara permanen
 - **Masa Berlaku:** 6 bulan
 - **Dampak:**
   - KPI dapat berkurang 5-10% jika tidak ada perbaikan
-  - Tidak eligible untuk promosi selama masa aktif SP
-  - Bonus tahunan dapat dikurangi 10-20%
-  - Check-in rutin setiap 2 minggu
+  - Tidak memenuhi syarat untuk promosi selama periode aktif SP
+  - Bonus tahunan dapat berkurang 10-20%
+  - Pertemuan review dengan atasan setiap 2 minggu
 
-Sifat: Tegas namun adil dengan keyakinan bahwa situasi dapat diperbaiki
+Sifat: Tegas namun adil dengan keyakinan bahwa perbaikan masih dimungkinkan
 
 ---
 
@@ -79,20 +79,20 @@ Sifat: Tegas namun adil dengan keyakinan bahwa situasi dapat diperbaiki
 
 - **Untuk:** Tidak ada perbaikan setelah SP1 atau pelanggaran berat berulang
 - **Proses:**
-  - Meeting dengan HR Head, Atasan, dan HR Team
-  - Counseling session untuk memahami masalah secara mendalam
+  - Pertemuan dengan HR Head, atasan, dan HR Team
+  - Sesi konseling untuk memahami masalah secara mendalam
   - Performance Improvement Plan yang lebih ketat dengan timeline 30 hari
-  - Dapat melibatkan mentor atau coach untuk dukungan
-- **Dokumentasi:** File permanent dengan penandaan khusus
+  - Pendampingan dari mentor atau coach untuk dukungan
+- **Dokumentasi:** Dicatat dalam file kepegawaian dengan penandaan khusus
 - **Masa Berlaku:** 9 bulan
 - **Dampak:**
-  - KPI dikurangi 15-25%
-  - Freeze kenaikan gaji dan benefit tambahan
-  - Bonus tahunan dikurangi 30-50%
+  - KPI berkurang 15-25%
+  - Pembekuan kenaikan gaji dan benefit tambahan
+  - Bonus tahunan berkurang 30-50%
   - Tidak dapat mengajukan transfer internal atau promosi
   - Evaluasi progress setiap minggu
 
-Sifat: Sangat serius - kesempatan terakhir untuk perbaikan signifikan
+Sifat: Sangat serius - kesempatan terakhir untuk menunjukkan perbaikan yang signifikan
 
 ---
 
@@ -117,6 +117,29 @@ Sifat: Peringatan akhir - kesempatan terakhir sebelum pemutusan hubungan kerja
 ---
 
 **Level 6: Pemutusan Hubungan Kerja (PHK)**
+- **Untuk:**
+  - Pelanggaran sangat berat (fraud, pencurian, kekerasan, pelecehan)
+  - Tidak ada perbaikan setelah SP2
+  - Pelanggaran hukum pidana
+  - Kehilangan total kepercayaan terhadap karyawan
+- **Proses:**
+  - Investigasi menyeluruh oleh tim independen
+  - Pertemuan final dengan pihak manajemen
+  - Penerbitan surat SP3 resmi
+  - Penetapan periode akhir untuk perbaikan
+- **Dokumentasi:** Dicatat dalam file kepegawaian sebagai peringatan akhir
+- **Masa Berlaku:** 12 bulan
+- **Dampak:**
+  - KPI berkurang 30-40%
+  - Pembekuan total untuk kenaikan gaji, bonus, dan promosi
+  - Evaluasi setiap dua minggu dengan laporan terperinci
+  - Pelanggaran tambahan dapat langsung mengakibatkan PHK
+
+Sifat: Peringatan akhir - kesempatan terakhir sebelum pemutusan hubungan kerja
+
+---
+
+**Level 6: Pemutusan Hubungan Kerja (PHK)**
 
 - **Untuk:**
   - Pelanggaran sangat berat (fraud, pencurian, kekerasan, pelecehan)
@@ -125,7 +148,7 @@ Sifat: Peringatan akhir - kesempatan terakhir sebelum pemutusan hubungan kerja
   - Kehilangan total kepercayaan (breach of trust)
 - **Proses:**
   - Investigasi menyeluruh oleh tim independen
-  - Meeting final dengan Management
+  - Pertemuan final dengan manajemen
   - Penerbitan surat PHK resmi sesuai UU Ketenagakerjaan
   - Penyelesaian hak-hak karyawan
 - **Jenis PHK:**
@@ -133,67 +156,67 @@ Sifat: Peringatan akhir - kesempatan terakhir sebelum pemutusan hubungan kerja
   - **Tanpa pesangon**: Untuk pelanggaran sangat berat atau fraud (sesuai UU)
 - **Konsekuensi:**
   - Proses exit clearance dan serah terima aset
-  - Reference check akan mencerminkan alasan PHK
+  - Dokumentasi akan mencerminkan alasan pemutusan hubungan kerja
 
-Catatan: PHK adalah upaya terakhir. Kami lebih mengutamakan coaching dan perbaikan. Namun, untuk kasus yang membahayakan atau sangat merugikan, keputusan tegas harus diambil untuk melindungi tim dan perusahaan.
+Catatan: Pemutusan hubungan kerja adalah upaya terakhir. Perusahaan lebih mengutamakan coaching dan perbaikan. Namun, untuk kasus yang membahayakan atau sangat merugikan, keputusan tegas harus diambil untuk melindungi integritas organisasi dan seluruh tim.
 
 ---
 
 **Prosedur Penegakan Disiplin**
 
-Prinsip Kami: Fair, Transparent, and Humane
+Prinsip: Adil, Transparan, dan Manusiawi
 
-Sistem disiplin tidak dirancang untuk menakutkan. Prosedur ini dibuat untuk melindungi semua pihak dan memastikan keadilan dalam setiap proses.
+Sistem disiplin dirancang untuk melindungi semua pihak dan memastikan keadilan dalam setiap proses penyelesaian kasus.
 
 ---
 
 **Tahap 1: Identifikasi Pelanggaran**
 
 - Pelanggaran diidentifikasi oleh atasan, HR, atau rekan kerja
-- Dapat berasal dari self-report atau whistleblowing system
-- Dokumentasi awal mencakup: waktu, lokasi, detail kejadian, dan bukti yang ada
+- Dapat berasal dari laporan langsung atau whistleblowing system
+- Dokumentasi awal mencakup: waktu, lokasi, detail kejadian, dan bukti pendukung
 
-Hal Penting:
+Ketentuan Penting:
 - Tidak langsung membuat asumsi - pengumpulan fakta dilakukan terlebih dahulu
 - Karyawan yang menyaksikan pelanggaran diharapkan melaporkan kepada atasan atau HR
-- Laporan anonim dijamin kerahasiaannya
+- Laporan anonim dijamin kerahasiaannya sesuai dengan kebijakan perusahaan
 
 ---
 
 **Tahap 2: Klarifikasi & Investigasi**
 
 Hak Karyawan yang Dilaporkan:
-- Diberikan kesempatan untuk menjelaskan versinya atas kejadian
-- Presumption of innocence - tidak langsung dianggap bersalah
-- Dapat didampingi saksi atau support person saat hearing
-- Proses bersifat confidential dan tidak disebarluaskan
+- Diberikan kesempatan untuk menjelaskan versinya mengenai kejadian yang dilaporkan
+- Tidak langsung dianggap bersalah sebelum investigasi selesai
+- Dapat didampingi pihak ketiga atau saksi saat pertemuan
+- Proses bersifat rahasia dan tidak disebarluaskan
 - Memiliki akses ke informasi yang dilaporkan mengenai dirinya
 
 Proses Investigasi:
-- Interview dengan semua pihak terkait termasuk saksi
-- Review bukti pendukung: email, chat, CCTV, attendance record, dokumentasi lain
+- Wawancara dengan semua pihak terkait termasuk saksi
+- Pengumpulan dan review bukti pendukung: email, chat, dokumentasi, dan bukti lainnya
 - Pencarian fakta secara objektif dan tidak memihak
 - Timeline: 3-7 hari kerja (maksimal 14 hari untuk kasus kompleks)
 
 Tim Investigator:
-- HR Team dan Atasan langsung (untuk pelanggaran ringan hingga sedang)
-- HR, Management, dan Pihak independen (untuk pelanggaran berat)
+- HR Team dan atasan langsung (untuk pelanggaran ringan hingga sedang)
+- HR, manajemen, dan pihak independen (untuk pelanggaran berat)
 
 ---
 
 **Tahap 3: Evaluasi & Keputusan**
 
-Tim evaluasi akan memutuskan:
-1. Apakah terbukti terjadi pelanggaran?
-2. Seberapa serius tingkat pelanggarannya?
-3. Sanksi apa yang proporsional dan adil?
+Tim evaluasi akan menentukan:
+1. Apakah terbukti terjadi pelanggaran berdasarkan bukti yang dikumpulkan?
+2. Seberapa serius tingkat keseriusan pelanggaran tersebut?
+3. Sanksi apa yang proporsional dan adil untuk kasus ini?
 
 Faktor yang Dipertimbangkan:
-- **Track record**: Apakah ini pelanggaran pertama atau berulang?
+- **Riwayat Karyawan**: Apakah ini pelanggaran pertama atau berulang?
 - **Dampak**: Seberapa besar dampak terhadap tim dan perusahaan?
-- **Intensi**: Disengaja atau tidak disengaja? Apakah ada niat jahat?
-- **Konteks**: Apakah ada faktor yang meringankan (masalah personal, kesehatan mental, dll)?
-- **Penyesalan**: Apakah yang bersangkutan mengakui dan bersedia memperbaiki?
+- **Niat**: Disengaja atau tidak disengaja? Apakah ada niat jahat?
+- **Konteks Keseluruhan**: Apakah ada faktor yang meringankan (masalah personal, kesehatan mental, dll)?
+- **Sikap Karyawan**: Apakah yang bersangkutan mengakui dan bersedia memperbaiki?
 
 Keputusan dibuat dalam: 3-5 hari kerja setelah investigasi selesai
 
@@ -201,159 +224,157 @@ Keputusan dibuat dalam: 3-5 hari kerja setelah investigasi selesai
 
 **Tahap 4: Komunikasi Keputusan**
 
-- **Meeting tatap muka** untuk menyampaikan keputusan (tidak melalui email atau chat)
-- Penjelasan yang jelas mengenai:
+- **Pertemuan tatap muka** untuk menyampaikan keputusan (tidak melalui email atau saluran lainnya)
+- Penjelasan tertulis yang jelas mengenai:
   - Pelanggaran yang terjadi
   - Alasan pemilihan sanksi tersebut
   - Langkah yang harus dilakukan selanjutnya
   - Dukungan yang akan diberikan perusahaan
-- **Surat sanksi formal** untuk SP1 hingga PHK
-- Kesempatan untuk bertanya dan klarifikasi
-- Penjelasan mengenai hak banding
+- **Surat sanksi resmi** untuk SP1 hingga PHK
+- Kesempatan untuk bertanya dan melakukan klarifikasi
+- Penjelasan mengenai hak untuk mengajukan banding
 
-Pendekatan: Profesional namun empatik - sanksi diberikan untuk keadilan, bukan kepuasan
+Pendekatan: Profesional namun bersifat pembinaan - sanksi diberikan untuk menjaga keadilan organisasi
 
 ---
 
 **Tahap 5: Pembinaan & Monitoring**
 
-Ini adalah tahap terpenting - membantu karyawan untuk sukses kembali.
+Tahap ini adalah yang terpenting - memberikan kesempatan kepada karyawan untuk menunjukkan perbaikan.
 
 Performance Improvement Plan (PIP):
-- Target perbaikan yang jelas dan dapat dicapai
-- Timeline yang realistis sesuai kondisi
-- Dukungan yang dibutuhkan: training, mentoring, atau coaching
-- Resources atau tools tambahan jika diperlukan
+- Target perbaikan yang jelas dan terukur
+- Timeline yang realistis sesuai dengan kondisi dan jenis pelanggaran
+- Dukungan yang dibutuhkan: pelatihan, mentoring, atau konseling
+- Sumber daya atau tools tambahan jika diperlukan
 
-Monitoring & Check-in:
-- **Verbal Warning:** Check-in informal setiap 2 minggu
-- **Written Warning:** Meeting progress setiap 2 minggu
-- **SP1:** Weekly one-on-one dengan atasan
-- **SP2:** Weekly one-on-one dengan atasan dan bi-weekly dengan HR
-- **SP3:** Check-in dua kali seminggu dan weekly review dengan HR & Management
+Monitoring & Pertemuan Berkala:
+- **Verbal Warning:** Pertemuan informal setiap dua minggu
+- **Written Warning:** Pertemuan review setiap dua minggu
+- **SP1:** Pertemuan one-on-one mingguan dengan atasan
+- **SP2:** Pertemuan mingguan dengan atasan dan dua mingguan dengan HR
+- **SP3:** Pertemuan dua kali seminggu dan review mingguan dengan HR dan manajemen
 
 Dukungan yang Diberikan:
 - Coaching dari atasan atau mentor yang ditunjuk
-- Training jika terdapat kesenjangan keterampilan
-- Counseling jika terdapat masalah personal atau kesehatan mental
+- Pelatihan jika terdapat kesenjangan keterampilan
+- Konseling jika terdapat masalah personal atau kesehatan mental
 - Penyesuaian beban kerja sementara jika diperlukan
-- Saluran komunikasi terbuka dengan HR
+- Saluran komunikasi terbuka dengan departemen HR
 
 ---
 
 **Tahap 6: Evaluasi Akhir**
 
 Jika Ada Perbaikan Signifikan:
-- Sanksi tetap tercatat namun dengan status "CLEARED"
-- Kembali eligible untuk benefit dan promosi setelah periode selesai
-- Apresiasi diberikan atas usaha perbaikan
-- Fresh start tanpa perpanjangan sanksi
+- Sanksi tetap tercatat dalam file namun dengan status "SELESAI"
+- Kembali memenuhi syarat untuk benefit dan promosi setelah periode selesai
+- Pengakuan diberikan atas usaha dan komitmen untuk perbaikan
+- Kesempatan baru tanpa perpanjangan periode sanksi
 
 Jika Tidak Ada Perbaikan:
 - Eskalasi ke level sanksi berikutnya
-- Review mengenai kesesuaian dengan perusahaan
-- Untuk SP3: diskusi serius mengenai masa depan di Preface
-- Kemungkinan mutual separation jika tidak menunjukkan perbaikan
+- Review mengenai kesesuaian karyawan dengan perusahaan
+- Untuk SP3: diskusi mengenai kemungkinan pemutusan hubungan kerja
+- Kemungkinan pemutusan hubungan kerja jika tidak menunjukkan perbaikan
 
 ---
 
 **Hak Banding**
 
-Karyawan memiliki hak untuk mengajukan banding jika merasa sanksi tidak adil.
+Karyawan memiliki hak untuk mengajukan banding jika merasa sanksi yang diberikan tidak adil atau tidak sesuai dengan prosedur yang telah ditetapkan.
 
 Prosedur:
-1. **Mengajukan banding** dalam waktu 7 hari kerja setelah sanksi diberikan
-2. **Menyusun argumen** tertulis mengenai alasan keberatan beserta bukti pendukung
-3. **Mengirim ke HR** melalui email resmi
-4. **Review oleh komite independen** (HR Head dan Management yang tidak terlibat langsung)
+1. **Mengajukan banding** dalam waktu tujuh hari kerja setelah sanksi diberikan
+2. **Menyusun argumen** secara tertulis mengenai alasan keberatan beserta bukti pendukung
+3. **Mengirim surat banding** ke departemen HR melalui email resmi
+4. **Review oleh komite independen** (HR Head dan pihak manajemen yang tidak terlibat langsung dalam kasus)
 5. **Keputusan akhir** disampaikan dalam 14 hari kerja
-6. **Keputusan komite bersifat final** dan tidak dapat dibanding lagi
+6. **Keputusan komite bersifat final** dan tidak dapat diajukan banding lagi
 
 Komite akan:
 - Melakukan review ulang terhadap semua bukti dan hasil investigasi
 - Mendengarkan argumen dari kedua belah pihak
 - Dapat mempertahankan, mengurangi, atau membatalkan sanksi
-- Memberikan keputusan tertulis dengan alasan yang jelas
+- Memberikan keputusan tertulis dengan alasan dan penjelasan yang jelas
 
 ---
 
-**Hal Penting yang Perlu Diingat**
+**Prinsip-Prinsip Dasar Sistem Disiplin**
 
-1. Kami Mengutamakan Dialog
-Sebelum masalah menjadi besar, komunikasi terbuka sangat dianjurkan. Banyak masalah dapat diselesaikan melalui percakapan yang baik. Open door policy diterapkan untuk semua karyawan.
+1. Prioritas pada Dialog dan Komunikasi Terbuka
+Komunikasi terbuka sangat dianjurkan sebelum masalah berkembang. Banyak masalah dapat diselesaikan melalui percakapan yang konstruktif. Kebijakan open door diterapkan untuk semua karyawan.
 
 2. Tidak Ada Sanksi Mendadak
-Kecuali untuk pelanggaran berat yang jelas merugikan, tidak akan ada PHK mendadak. Setiap kasus melalui proses yang fair dengan kesempatan klarifikasi.
+Kecuali untuk pelanggaran berat yang jelas merugikan organisasi, tidak akan ada pemutusan hubungan kerja mendadak. Setiap kasus melalui proses yang adil dengan kesempatan untuk memberikan penjelasan.
 
-3. Kesempatan Kedua Adalah Nyata
-Kami percaya bahwa setiap orang dapat berubah dan berkembang. Selama ada itikad baik dan usaha untuk memperbaiki diri, perusahaan akan memberikan dukungan penuh.
+3. Kesempatan Perbaikan
+Perusahaan percaya bahwa setiap individu dapat berubah dan berkembang. Selama ada itikad baik dan usaha nyata untuk memperbaiki diri, perusahaan akan memberikan dukungan penuh.
 
 4. Konsistensi dalam Penerapan
-Aturan berlaku sama untuk semua level karyawan - dari intern hingga C-level. Tidak ada pengecualian atau favoritism. Kultur friends & family tidak berarti ada yang berada di atas aturan.
+Aturan berlaku sama untuk semua level karyawan - dari karyawan baru hingga level C-suite. Tidak ada pengecualian atau perlakuan khusus. Standar profesionalisme berlaku untuk semua.
 
-5. Kesehatan Mental dan Masalah Personal
+5. Dukungan untuk Kesehatan Mental dan Masalah Personal
 Jika pelanggaran dipicu oleh masalah personal atau kesehatan mental:
-- Perusahaan dapat menyediakan support system (counseling, EAP)
+- Perusahaan dapat menyediakan sistem dukungan (konseling, Employee Assistance Program)
 - Penyesuaian beban kerja sementara
-- Fleksibilitas work from home
-- Medical leave jika diperlukan
-- Kesehatan karyawan adalah prioritas
+- Fleksibilitas dalam jam kerja atau tempat kerja
+- Cuti kesehatan jika diperlukan
+- Kesehatan dan kesejahteraan karyawan adalah prioritas
 
-6. Konteks Sangat Penting
-Setiap kasus akan dilihat konteksnya secara menyeluruh:
-- Apakah disengaja atau tidak disengaja?
+6. Analisis Konteks yang Komprehensif
+Setiap kasus akan dianalisis konteksnya secara menyeluruh:
+- Apakah pelanggaran disengaja atau tidak disengaja?
 - Apakah ada faktor eksternal yang mempengaruhi?
-- Bagaimana track record sebelumnya?
-- Apakah ada penyesalan dan kemauan untuk berubah?
+- Bagaimana riwayat kinerja karyawan sebelumnya?
+- Apakah karyawan menunjukkan penyesalan dan kemauan untuk berubah?
 
 7. Transparansi dan Keadilan
-- Proses dan aturan dikomunikasikan dengan jelas
-- Karyawan dapat mempertanyakan proses dan keputusan
-- Dokumentasi lengkap untuk akuntabilitas
+- Proses dan aturan dikomunikasikan dengan jelas kepada semua karyawan
+- Karyawan dapat mempertanyakan proses dan keputusan yang diberikan
+- Dokumentasi lengkap disimpan untuk memastikan akuntabilitas
 - Tidak ada agenda tersembunyi dalam setiap keputusan
 
 ---
 
 **Sistem Dukungan untuk Karyawan**
 
-Jika mengalami kesulitan atau masalah, jangan menunggu hingga menjadi pelanggaran. Segera hubungi kami.
+Jika mengalami kesulitan atau masalah, karyawan didorong untuk segera menghubungi departemen yang relevan tanpa menunggu hingga masalah menjadi pelanggaran.
 
-Resources yang Tersedia:
-- **Open Door Policy**: Komunikasi terbuka dengan atasan atau HR kapan saja
-- **Mental Health Support**: Layanan counseling dan Employee Assistance Program (EAP)
-- **Training & Development**: Program pelatihan jika terdapat kesenjangan keterampilan
-- **Mentoring Program**: Pendampingan dari mentor untuk guidance
-- **Medical Leave**: Cuti kesehatan jika diperlukan
-- **Work Flexibility**: Work from home atau flexible hours sesuai kebutuhan
+Sumber Daya yang Tersedia:
+- **Kebijakan Open Door**: Komunikasi terbuka dengan atasan atau HR kapan saja
+- **Dukungan Kesehatan Mental**: Layanan konseling dan Employee Assistance Program (EAP)
+- **Program Pelatihan dan Pengembangan**: Program pelatihan jika terdapat kesenjangan keterampilan
+- **Program Mentoring**: Pendampingan dari mentor untuk bimbingan profesional
+- **Cuti Kesehatan**: Cuti kesehatan jika diperlukan
+- **Fleksibilitas Kerja**: Opsi bekerja dari rumah atau jam kerja fleksibel sesuai kebutuhan
 
 ---
 
-**Kontak dan Pertanyaan**
+**Kontak dan Informasi Lebih Lanjut**
 
-Pertanyaan tentang aturan disiplin atau sanksi?
-📧 **HR Team**: sabian.athallah05@gmail.com
-📞 **HR Hotline**: 085887799935 (jam kerja)
+Pertanyaan tentang sistem disiplin atau sanksi?
+Email: sabian.athallah05@gmail.com
+Telepon: 085887799935 (jam kerja)
 
 Ingin melaporkan pelanggaran secara anonim?
-Whistleblowing portal tersedia di sistem HR
+Whistleblowing portal tersedia di sistem HR internal
 
 Memiliki masalah pribadi yang mempengaruhi pekerjaan?
-Jangan ragu untuk berdiskusi - kami hadir untuk mendukung, bukan menghakimi.
+Karyawan didorong untuk melakukan diskusi dengan HR atau atasan - kami hadir untuk memberikan dukungan, bukan untuk menghakimi.
 
 ---
 
 **Penutup**
 
 Sistem disiplin ini dirancang dengan pertimbangan matang untuk:
-1. Menjaga keadilan bagi semua karyawan
-2. Melindungi karyawan yang berkinerja baik
-3. Memberikan kesempatan perbaikan bagi yang melakukan kesalahan
-4. Menjaga kultur kerja yang sehat dan produktif
+1. Menjaga keadilan dan konsistensi bagi semua karyawan
+2. Melindungi dan menghargai karyawan yang berkinerja baik
+3. Memberikan kesempatan perbaikan bagi karyawan yang melakukan kesalahan
+4. Menjaga kultur kerja yang sehat, produktif, dan profesional
 5. Memastikan akuntabilitas di semua level organisasi
 
-Aturan bukan dibuat untuk dilanggar, melainkan sebagai panduan agar kita semua dapat tumbuh bersama dalam lingkungan yang saling mendukung dan menghormati.
-
-*Kultur santai dan akrab tidak mengurangi komitmen kami terhadap profesionalitas dan kedisiplinan.*
+Aturan dan kebijakan disiplin dirancang sebagai panduan agar semua pihak dapat tumbuh bersama dalam lingkungan kerja yang saling mendukung, menghormati, dan profesional.
 `,
   },
 ];
