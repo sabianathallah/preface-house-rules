@@ -6,6 +6,7 @@ import { formulirLinkPolicies } from "./formulirLink";
 import { informasiPengumumanPolicies } from "./informasiPengumuman";
 import { jenisPerlangaranPolicies } from "./jenisPerlanggaran";
 import { sistemSanksiPolicies } from "./sistemSanksi";
+import { kpiPolicies } from "./kpi";
 import { profilPerusahaanPolicies } from "./profilPerusahaan";
 
 // Gabungkan semua policies
@@ -18,6 +19,7 @@ export const allPolicies = [
   ...informasiPengumumanPolicies,
   ...jenisPerlangaranPolicies,
   ...sistemSanksiPolicies,
+  ...kpiPolicies,
   ...profilPerusahaanPolicies,
 ];
 
@@ -31,6 +33,7 @@ export {
   informasiPengumumanPolicies,
   jenisPerlangaranPolicies,
   sistemSanksiPolicies,
+  kpiPolicies,
   profilPerusahaanPolicies,
 };
 
@@ -53,6 +56,7 @@ export const getCategories = () => {
     "Cuti & Absensi",
     "Lembur & Kompensasi",
     "Kesehatan & BPJS",
+    "Pengembangan Diri",
     "Formulir & Link",
   ];
   return categoryOrder;

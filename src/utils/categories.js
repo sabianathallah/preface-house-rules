@@ -7,7 +7,8 @@ import {
   Link,
   Info,
   AlertTriangle,
-  Building2
+  Building2,
+  Zap
 } from "lucide-react";
 
 // Category icons using Lucide (premium icons)
@@ -20,6 +21,7 @@ export const categoryIcons = {
   "Formulir & Link": Link,
   "Informasi & Pengumuman": Info,
   "Aturan Disiplin": AlertTriangle,
+  "Pengembangan Diri": Zap,
   "Profil Perusahaan": Building2,
 };
 
@@ -32,6 +34,7 @@ export const categoryColors = {
   "Formulir & Link": "#E31E24",     // PREFACE Red
   "Informasi & Pengumuman": "#E31E24", // PREFACE Red
   "Aturan Disiplin": "#E31E24",     // PREFACE Red
+  "Pengembangan Diri": "#8b5cf6",   // Purple
   "Profil Perusahaan": "#8b5cf6",   // Purple
 };
 
