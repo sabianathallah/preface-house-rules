@@ -129,10 +129,6 @@ Frekuensi review: Minimal setiap quarter (3 bulan)
 
 **Jumlah dan Komposisi KPI**
 
-**Rekomendasi Jumlah KPI:**
-- Minimal: 3-4 KPI per karyawan
-- Optimal: 4-6 KPI per karyawan
-- Maksimal: Tidak lebih dari 8 KPI untuk menghindari overload
 
 **Komposisi Berdasarkan Level:**
 
