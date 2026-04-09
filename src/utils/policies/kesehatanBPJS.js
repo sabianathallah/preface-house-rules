@@ -25,7 +25,7 @@ Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan.
 
 **Prosedur Reimbursement** 
 1. Karyawan membayarkan iuran BPJS Kesehatan secara mandiri sesuai kelas yang dipilih.
-2. Karyawan mengisi formulir reimbursement pada (https://forms.gle/kKWNdvzLsEsPWdVdA).
+2. Karyawan mengisi formulir reimbursement pada (https://forms.gle/dA9koapjedoNSa537).
 3. Penggantian maksimal 14 hari kerja setelah pengajuan lengkap.
 4. Penggantian dilakukan melalui transfer bank ke rekening karyawan.
 
