@@ -10,19 +10,15 @@ export const formulirLinkPolicies = [
     content: `
 **Formulir BPJS Kesehatan**
 Form reimbursement iuran BPJS Kesehatan kelas 2:
-https://forms.gle/kKWNdvzLsEsPWdVdA
+https://forms.gle/dA9koapjedoNSa537
 
 **Formulir Pengajuan Cuti**
 Form pengajuan cuti tahunan (minimal 7 hari sebelum):
-https://forms.gle/rK6YUP9QNb6Qi9p16
-
-**Formulir Datang Terlambat**
-Form pengajuan keterlambatan karena lembur atau keperluan mendesak:
-https://forms.gle/U2e1RsXaMfxVXP5w8
+https://forms.gle/m8PNq4dN1LhEdBy59
 
 **Formulir Reimburse Biaya Operasional**
 Form pengajuan penggantian biaya operasional perusahaan (per transaksi):
-https://forms.gle/ZxX2YddZnubkjbun7
+https://forms.gle/PAZqyCkrE8Dxk9AQ9
 
 **Cara Pengisian**
 1. Klik link formulir sesuai kebutuhan
@@ -35,7 +31,6 @@ https://forms.gle/ZxX2YddZnubkjbun7
 **Deadline Pengajuan**
 - **BPJS Reimbursement**: Setiap bulan sebelum tanggal 25
 - **Pengajuan Cuti**: Minimal 7 hari kerja sebelum tanggal cuti
-- **Datang Terlambat**: Maksimal pukul 17.00 WIB pada hari yang sama
 - **Reimburse Operasional**: Maksimal 7 hari kerja setelah tanggal transaksi
 
 **Catatan Penting**

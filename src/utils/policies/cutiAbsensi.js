@@ -41,8 +41,8 @@ Perusahaan menerapkan sistem peringatan berjenjang untuk keterlambatan berulang 
 
 **Overtime Recognition**
 1. Karyawan yang melakukan pekerjaan di luar jam kerja normal (lembur) dapat memperoleh kompensasi berupa kelonggaran waktu kedatangan pada hari kerja berikutnya.
-2. Untuk memperoleh kompensasi tersebut, karyawan wajib melakukan pengajuan melalui Form Pengajuan (https://forms.gle/U2e1RsXaMfxVXP5w8) Datang Terlambat kepada HR dengan batas maksimal pengajuan pada pukul 17.00 WIB pada hari kerja yang sama.
-3. Karyawan wajib memberikan alasan yang jelas dan valid terkait keterlambatan yang diajukan, serta menyertakan bukti pendukung jika diperlukan 
+2. Untuk memperoleh kompensasi tersebut, karyawan wajib mengajukan permohonan keterlambatan kepada HR dengan batas maksimal pengajuan pada pukul 17.00 WIB pada hari kerja yang sama.
+3. Karyawan wajib memberikan alasan yang jelas dan valid terkait keterlambatan yang diajukan, serta menyertakan bukti pendukung jika diperlukan.
 4. Pengajuan yang diajukan setelah batas waktu pukul 17.00 WIB pada hari kerja yang sama tidak akan diproses dan dianggap tidak valid.
 5. HR akan melakukan verifikasi terhadap pengajuan tersebut sebelum memberikan persetujuan.
 6. HR akan memberikan persetujuan berdasarkan pertimbangan yang objektif, termasuk namun tidak terbatas pada alasan keterlambatan, bukti pendukung, serta kebutuhan operasional perusahaan pada hari kerja berikutnya.
@@ -80,7 +80,7 @@ Berlaku untuk seluruh karyawan PKWT yang telah memenuhi masa kerja minimal.
 **Prosedur Pengajuan Cuti Tahunan**
 1. Karyawan wajib mengajukan cuti minimal **7 hari kerja** sebelum tanggal yang diinginkan.
 2. Pengajuan dilakukan melalui formulir cuti dengan persetujuan supervisor langsung.
-3. Formulir pengajuan: https://forms.gle/rK6YUP9QNb6Qi9p16
+3. Formulir pengajuan: https://forms.gle/m8PNq4dN1LhEdBy59
 4. Approval cuti mempertimbangkan kebutuhan operasional dan jadwal tim.
 5. HR akan memberikan konfirmasi persetujuan maksimal 3 hari kerja setelah pengajuan.
 6. Cuti darurat (force majeure) dapat diajukan dengan pemberitahuan secepatnya disertai alasan valid.
