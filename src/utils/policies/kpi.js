@@ -421,4 +421,37 @@ Kesuksesan sistem KPI tergantung pada:
 Dengan sistem KPI yang baik, setiap karyawan dapat berkontribusi maksimal dan tumbuh bersama organisasi.
 `,
   },
+  {
+    id: 23,
+    category: "Pengembangan Diri",
+    categoryColor: "#8b5cf6",
+    title: "Pelaporan Aktivitas & Target di Discord",
+    lastUpdated: "13 Apr 2026",
+    tags: ["Discord", "To-Do", "Weekly Target", "KPI", "Pelaporan"],
+    summary:
+      "Kewajiban pengisian to-do list harian, target mingguan, dan update KPI bulanan melalui Discord.",
+    content: `
+**Tujuan**
+Menjaga transparansi progress kerja dan memastikan KPI terpantau secara konsisten melalui Discord.
+
+**Ruang Lingkup**
+Berlaku untuk seluruh karyawan dan staff yang berkomunikasi kerja melalui Discord.
+
+**Ketentuan Utama**
+1. Setiap staff wajib menggunakan Discord sebagai kanal komunikasi kerja resmi.
+2. Setiap hari kerja, staff wajib mengisi **to-do list harian** di channel yang ditentukan.
+3. Setiap minggu, staff wajib memperbarui **weekly target** untuk minggu berjalan.
+4. Setiap bulan, setiap karyawan wajib melengkapi **update KPI bulanan** di Discord sebagai panduan evaluasi.
+5. Update KPI bulanan akan dikomunikasikan dan dibahas bersama ketua divisi pada sesi review yang dijadwalkan.
+
+**Format Pelaporan (Contoh)**
+- **To-Do Harian**: daftar tugas utama hari ini
+- **Weekly Target**: target minggu ini dan milestone penting
+- **Update KPI Bulanan**: ringkasan pencapaian, kendala, dan rencana perbaikan
+
+**Catatan**
+- Jika ada kendala dalam pengisian, segera informasikan dan tag ketua divisi.
+- Keterlambatan atau kelalaian pelaporan akan dicatat sebagai bagian dari evaluasi kedisiplinan.
+`,
+  },
 ];
