@@ -4,15 +4,15 @@ export const lemburKompensasiPolicies = [
     category: "Lembur & Kompensasi",
     categoryColor: "#f59e0b",
     title: "Klaim Overtime (Lembur)",
-    lastUpdated: "16 Mar 2026",
+    lastUpdated: "24 Apr 2026",
     tags: ["Lembur", "Overtime", "Kompensasi"],
-    summary: "Prosedur pengajuan dan perhitungan kompensasi kerja lembur.",
+    summary: "Kompensasi overtime hanya berlaku untuk pekerjaan pada hari libur resmi perusahaan.",
     content: `
 **Tujuan**
 Mengatur kebijakan kompensasi untuk pekerjaan lembur karyawan secara adil dan transparan, serta memberikan penghargaan atas kontribusi waktu kerja tambahan mereka.
 
 **Ruang Lingkup**
-Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan Preface House yang melakukan pekerjaan pada hari libur atau di luar jam kerja reguler.
+Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan Preface House yang melakukan pekerjaan pada hari libur nasional atau hari istirahat resmi perusahaan.
 
 ---
 
@@ -21,10 +21,14 @@ Berlaku untuk seluruh karyawan PKWT di lingkungan perusahaan Preface House yang 
 **1. Definisi dan Kriteria Lembur**
 Lembur adalah pekerjaan yang dilakukan pada hari libur nasional atau hari istirahat yang ditetapkan perusahaan. Karyawan yang ditugaskan bekerja pada hari-hari tersebut berhak menerima kompensasi lembur sesuai dengan kebijakan ini.
 
+**Ketentuan penting:**
+- Overtime pada hari kerja normal tidak mendapatkan kompensasi lembur.
+- Penambahan jam kerja pada hari kerja reguler menjadi tanggung jawab operasional tim dan tidak dihitung sebagai klaim lembur.
+
 **2. Kelayakan Lembur**
 - Hanya karyawan yang menerima penugasan resmi dari atasan langsung atau departemen HR yang berhak mengajukan kompensasi lembur.
 - Karyawan dapat bekerja secara On-Site (WFO) atau Work From Home (WFH).
-- Penugasan lembur dapat diberikan kapan saja sesuai kebutuhan operasional perusahaan.
+- Penugasan lembur hanya dapat diberikan untuk pekerjaan pada hari libur resmi.
 
 ---
 
