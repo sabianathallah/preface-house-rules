@@ -4,6 +4,9 @@ import { cutiAbsensiPolicies } from "./cutiAbsensi";
 import { kodeEtikPolicies } from "./kodeEtik";
 import { formulirLinkPolicies } from "./formulirLink";
 import { informasiPengumumanPolicies } from "./informasiPengumuman";
+import { discordWorkflowPolicies } from "./discordWorkflow";
+import { notionTaskManagementPolicies } from "./notionTaskManagement";
+import { jadwalMeetingWajibPolicies } from "./jadwalMeetingWajib";
 import { jenisPerlangaranPolicies } from "./jenisPerlanggaran";
 import { sistemSanksiPolicies } from "./sistemSanksi";
 import { kpiPolicies } from "./kpi";
@@ -17,6 +20,9 @@ export const allPolicies = [
   ...kodeEtikPolicies,
   ...formulirLinkPolicies,
   ...informasiPengumumanPolicies,
+  ...discordWorkflowPolicies,
+  ...notionTaskManagementPolicies,
+  ...jadwalMeetingWajibPolicies,
   ...jenisPerlangaranPolicies,
   ...sistemSanksiPolicies,
   ...kpiPolicies,
@@ -31,6 +37,9 @@ export {
   kodeEtikPolicies,
   formulirLinkPolicies,
   informasiPengumumanPolicies,
+  discordWorkflowPolicies,
+  notionTaskManagementPolicies,
+  jadwalMeetingWajibPolicies,
   jenisPerlangaranPolicies,
   sistemSanksiPolicies,
   kpiPolicies,
