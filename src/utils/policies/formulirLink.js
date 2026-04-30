@@ -8,6 +8,10 @@ export const formulirLinkPolicies = [
     tags: ["Formulir", "Google Form", "Link"],
     summary: "Kumpulan link formulir penting perusahaan.",
     content: `
+**Formulir Pengajuan Lembur (Overtime)**
+Form pengajuan pekerjaan di luar jadwal kerja reguler:
+https://forms.gle/mzswdGuG8pZvLJbV8
+
 **Formulir BPJS Kesehatan**
 Form reimbursement iuran BPJS Kesehatan kelas 2:
 https://forms.gle/dA9koapjedoNSa537
