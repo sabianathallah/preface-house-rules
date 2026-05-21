@@ -14,7 +14,7 @@ https://forms.gle/mzswdGuG8pZvLJbV8
 
 **Formulir BPJS Kesehatan**
 Form reimbursement iuran BPJS Kesehatan kelas 2:
-https://forms.gle/dA9koapjedoNSa537
+https://forms.gle/C5aVoLP2nK8yhbaT8
 
 **Formulir Pengajuan Cuti**
 Form pengajuan cuti tahunan (minimal 7 hari sebelum):
