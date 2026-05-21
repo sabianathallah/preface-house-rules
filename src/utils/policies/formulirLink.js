@@ -14,7 +14,7 @@ https://forms.gle/mzswdGuG8pZvLJbV8
 
 **Formulir BPJS Kesehatan**
 Form reimbursement iuran BPJS Kesehatan kelas 2:
-https://forms.gle/C5aVoLP2nK8yhbaT8
+https://forms.gle/dA9koapjedoNSa537
 
 **Formulir Pengajuan Cuti**
 Form pengajuan cuti tahunan (minimal 7 hari sebelum):
@@ -22,7 +22,7 @@ https://forms.gle/m8PNq4dN1LhEdBy59
 
 **Formulir Reimburse Biaya Operasional**
 Form pengajuan penggantian biaya operasional perusahaan (per transaksi):
-https://forms.gle/PAZqyCkrE8Dxk9AQ9
+https://forms.gle/C5aVoLP2nK8yhbaT8
 
 **Cara Pengisian**
 1. Klik link formulir sesuai kebutuhan
