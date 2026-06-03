@@ -22,7 +22,7 @@ https://forms.gle/m8PNq4dN1LhEdBy59
 
 **Formulir Reimburse Biaya Operasional**
 Form pengajuan penggantian biaya operasional perusahaan (per transaksi):
-https://forms.gle/C5aVoLP2nK8yhbaT8
+https://forms.gle/q1GBQmq4V1wnQHij7
 
 **Cara Pengisian**
 1. Klik link formulir sesuai kebutuhan
